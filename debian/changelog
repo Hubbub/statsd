@@ -1,3 +1,9 @@
+statsd (0.0.1-hubbub1) unstable; urgency=low
+
+  * Fork for Hubbub to allow tracking of actual numbers.
+
+  -- Jon Wood <jon@hubbub.co.uk> Sun, 24 July 2011 15:35:00 +0100
+
 statsd (0.0.1) unstable; urgency=low
 
   * Initial rdio packaging.
